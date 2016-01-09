@@ -1,3 +1,11 @@
+/* Single Author Info:
+ *   abpatwar Aditya B Patwardhan
+ * Group Info:
+ *   abpatwar Aditya B Patwardhan
+ *   smnaik Sanskruti M Naik
+ *   slbist Saurabh L Bist
+*/
+
 #include"mythread.h"
 #include<stdlib.h>
 
