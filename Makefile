@@ -6,7 +6,6 @@
  #*   slbist Saurabh L Bist
  #*/
 
-
 #This make file is referred from the GNU Make and Github.com 
 
 SRCS =  mythread_create.c mythread_self.c mythread_wrapper.c mythread_yield.c mythread_join.c mythread_exit.c myqueue.c mythread_attributes.c futex.c
