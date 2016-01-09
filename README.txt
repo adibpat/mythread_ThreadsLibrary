@@ -1,10 +1,8 @@
-/* Single Author Info:
- *   smnaik Sanskruti M Naik
- * Group Info:
+/* Group Info:
  *   abpatwar Aditya B Patwardhan
  *   smnaik Sanskruti M Naik
  *   slbist Saurabh L Bist
- */
+*/
  
 About the Library:
 -----------------
